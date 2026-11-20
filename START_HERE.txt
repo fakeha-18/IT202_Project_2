@@ -1,0 +1,8 @@
+PROJECT 2 — NEXT ACTIONS
+1. Import database/project2_schema_and_seed.sql into your NJIT MySQL database using phpMyAdmin.
+2. Change config.php to your actual NJIT MySQL connection settings.
+3. Upload the Project_2 folder to NJIT AFS public_html, and open its index.php via your web.njit.edu URL.
+4. TEST login, search, booking, cancellation, instructions, updating and creating new clients.
+5. Export all live tables as CSV in phpMyAdmin; include the updated CSV files, code, GitHub URL and deployed NJIT URL in Canvas.
+
+NOTE: This is a prepared project package, not an automatically submitted or database-tested assignment.
